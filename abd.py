@@ -1,3 +1,0 @@
-print('Daylapython')
-vfxcvdf
-dsfsdf
