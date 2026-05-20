@@ -1,1 +1,1 @@
-Daylapython
+print('Daylapython')
